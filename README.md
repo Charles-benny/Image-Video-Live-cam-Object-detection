@@ -33,5 +33,12 @@ frozen_inference_graph.pb
 coco.txt (file containing COCO class names)
 Place your test image and video in the project directory:
 
-test_image.jpg (image for testing object detection)
-Video.mp4 (video file for testing object detection)
+lorry.jpg, lorry2.jpg (image for testing object detection)
+people.mp4 (video file for testing object detection)
+![Screenshot (229)](https://github.com/Charles-benny/Image-Video-Live-cam-Object-detection/assets/121818645/d8c71032-f063-4cae-856c-be7d80795a5e)
+
+
+![Screenshot (231)](https://github.com/Charles-benny/Image-Video-Live-cam-Object-detection/assets/121818645/1636e12a-122e-483b-a743-f119cdba0020)
+
+
+![Screenshot (233)](https://github.com/Charles-benny/Image-Video-Live-cam-Object-detection/assets/121818645/fae5ab30-8697-4e59-8987-e70b70c8ca71)
